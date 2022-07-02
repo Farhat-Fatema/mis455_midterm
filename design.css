@@ -1,0 +1,4 @@
+.all-boxes{
+    display: flex;
+    border: solid red;
+}
